@@ -115,8 +115,8 @@ int main()
     // 4.Web Technology        4
     // 5.Electronics           5
 
-    // 5 Classes
-    // Class1,Class2,Class3,Class4,Class5
+    // 5 Classes 
+    // Class 1,Class 2,Class 3,Class 4,Class 5
 
     printf("\n\t\t\t\t\t\t\tOur University has 10 students, 5 courses and 5 classes.\n\n");
     delay(1000);
